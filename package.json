@@ -1,0 +1,10 @@
+{
+  "student_id": "63364826",
+    "name": "jame", 
+    "age": "20", 
+    "gender": "male", 
+    "department": "CPE",
+    "scripts": {
+      "serve":"node app.js"
+    }
+}
